@@ -1,12 +1,12 @@
 {
-    "version": "5.13.5",
+    "version": "5.14.1",
     "description": "Professional AI code assistant desktop app supporting Claude Code, OpenAI Codex and Google Gemini CLI.",
     "homepage": "https://github.com/anyme123/Any-code",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/anyme123/Any-code/releases/download/v5.13.5/Any_Code_5.13.5_x64-portable.exe#/Any-Code.exe",
-            "hash": "b01a3f7a4dd81dab58a5efa8c79ca242b1cd2cc319dfaf8defabca6ae5928e7b"
+            "url": "https://github.com/anyme123/Any-code/releases/download/v5.14.1/Any_Code_5.14.1_x64-portable.exe#/Any-Code.exe",
+            "hash": "66d624e7e5d601a9f3d7d79838b9cc04b78436d5524c91366b4260f788be374d"
         }
     },
     "shortcuts": [

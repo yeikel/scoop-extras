@@ -1,5 +1,5 @@
 {
-    "version": "7.14.0",
+    "version": "7.16.0",
     "description": "Collaborative note taking",
     "homepage": "https://www.notion.so/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://desktop-release.notion-static.com/Notion%20Setup%207.14.0.exe#/dl.7z",
-            "hash": "sha512:3e531fbcd515b53994760746aea8fc34023a85f07b38fbcb014b012970edc27cbfa90cc0d9acebe7243479012fe6e15ca016022fb111780a27c6bd0869f79436"
+            "url": "https://desktop-release.notion-static.com/Notion%20Setup%207.16.0.exe#/dl.7z",
+            "hash": "sha512:10b2a8b4bf8f910b20540b0d9179fb3249bca59a950c13bc964523116b8e66e52cf43862de6a70371c51489a64780f3a19f5a8299b3c5a5c9d9d4ac0782940f4"
         }
     },
     "pre_install": [

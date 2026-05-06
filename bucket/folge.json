@@ -1,5 +1,5 @@
 {
-    "version": "1.33.0",
+    "version": "1.34.0",
     "description": "Simple, free, and powerful desktop tool for creating, managing, and sharing your processes and knowledge.",
     "homepage": "https://folge.me",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://cdn.folge.me/Folge-1.33.0.exe#/dl.7z",
-            "hash": "bf1eed154dc83a1ed8f0dc59faa1e7e328950685e790762945f9fabddfa5e852"
+            "url": "https://cdn.folge.me/Folge-1.34.0.exe#/dl.7z",
+            "hash": "92d687fe21be68c37e764055d6e0b66c9fee5799d17cff2246c5f9a73741dad0"
         }
     },
     "installer": {

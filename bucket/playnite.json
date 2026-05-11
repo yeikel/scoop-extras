@@ -1,10 +1,10 @@
 {
-    "version": "10.53",
+    "version": "10.54",
     "description": "Video game library manager and launcher with support for 3rd party libraries like Steam, GOG, Origin, Battle.net, ...",
     "homepage": "https://playnite.link",
     "license": "MIT",
-    "url": "https://github.com/JosefNemec/Playnite/releases/download/10.53/10.53.7z",
-    "hash": "8af3da8dbc208cb89b8e01a7d4f55f5dce6048e78582516bdbbb41f87f5a6127",
+    "url": "https://github.com/JosefNemec/Playnite/releases/download/10.54/10.54.7z",
+    "hash": "de9a3345bd8c630d40670f58de564362fe489f1dddcbf83c6d70885f7ceda65d",
     "pre_install": [
         "Copy-Item \"$persist_dir\\config.json\" \"$dir\" -ErrorAction 'SilentlyContinue'",
         "if (Test-Path \"$persist_dir\\Themes\") {",
